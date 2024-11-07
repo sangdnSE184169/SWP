@@ -1,0 +1,15 @@
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\bin\Debug\net8.0\KMG.Repository.deps.json
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\bin\Debug\net8.0\KMG.Repository.runtimeconfig.json
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\bin\Debug\net8.0\KMG.Repository.dll
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\bin\Debug\net8.0\KMG.Repository.pdb
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.csproj.AssemblyReference.cache
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.AssemblyInfoInputs.cache
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.AssemblyInfo.cs
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.csproj.CoreCompileInputs.cache
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.sourcelink.json
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.dll
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\refint\KMG.Repository.dll
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.pdb
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\KMG.Repository.genruntimeconfig.cache
+E:\DevNew\SWP391_KOIFARMSHOP_BE_TEAM6\SWP391.HomePage.FA24\KMG.Repository\obj\Debug\net8.0\ref\KMG.Repository.dll
